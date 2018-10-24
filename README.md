@@ -9,4 +9,5 @@
 ### The process
 I used puppeteer to scrape Donald Barthelme texts, and some array & JSON manipulations to clean the data. I was surprised at how easy it was to manipulate the text using RiTa – and dropped it into Tracery to generate a paragraph using Daniil Kharms 'Blue Notebook no.10' opening and ending sentences to frame it. I'm not sure that's the most interesting thing I've created – but it was interesting to see how flexible text can be (+ I learned a lot).
 
--------☁︎☔︎
+
+☁︎-------⚡️
